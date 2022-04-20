@@ -1,10 +1,10 @@
 <html>
 <body>
-<title>Mustafa Balaban 3ab394c3</title>
+<title>CHEREDDY SOMA SEKHAR REDDY 83aab1d5</title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
-$correctnumber=42;
+$correctnumber=12;
 
 if($_GET['guess'])
 {
